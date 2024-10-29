@@ -1,5 +1,7 @@
 # 🚀 Discord Clone - Full-Stack Web App 🌐
 
+![Discord Clone](image.png) 
+
 <div align="center">
   <a href="https://github.com/kokatesaurabh/Centralized-D3scord/stargazers">
     <img src="https://img.shields.io/github/stars/kokatesaurabh/Centralized-D3scord?style=social" alt="Stars Badge"/>
