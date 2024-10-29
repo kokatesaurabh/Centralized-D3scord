@@ -2,6 +2,7 @@
 
 ![Discord Clone](image.png)
 
+
 <div align="center">
   <a href="https://github.com/kokatesaurabh/Centralized-D3scord/stargazers">
     <img src="https://img.shields.io/github/stars/kokatesaurabh/Centralized-D3scord?style=social" alt="Stars Badge"/>
@@ -30,11 +31,7 @@ This **Discord Clone** project provides both **Centralized** and **Decentralized
 
 ## 🎬 Demo Video
 
-> Watch the **Centralized Discord Clone** in action below:
-
-[![Watch Demo Video](image.png)](https://github.com/kokatesaurabh/Centralized-D3scord/raw/main/assets/video.mp4)
-
-> Click the image to download and watch the demo video.
+> Watch the **Centralized Discord Clone** in action: [Demo Video on YouTube](https://youtu.be/-cFCUwRvFOQ?si=d5E9sdxoYnvyLsL4)
 
 ---
 
@@ -71,20 +68,3 @@ UPLOADTHING_APP_ID= /* UploadThing's application ID */
 LIVEKIT_API_KEY= /* LiveKit API key for video and audio */
 LIVEKIT_API_SECRET= /* LiveKit API secret for secure calls */
 NEXT_PUBLIC_LIVEKIT_URL= /* Public URL for LiveKit service */
-```
-
-This setup enables **Clerk Authentication**, **UploadThing for attachments**, and **LiveKit for calls**, delivering a seamless communication experience.
-
----
-
-## 🤝 Connect
-
-Stay connected for updates and improvements!
-
-- **[LinkedIn - Saurabh Kokate](http://linkedin.com/in/saurabh-kokate-b839b921a)**
-- **GitHub: [kokatesaurabh](https://github.com/kokatesaurabh/Centralized-D3scord)**
-- **Explore D3scord (Decentralized Version)**: [kokatesaurabh/D3scord](https://github.com/kokatesaurabh/D3scord)
-
----
-
-**Happy chatting and community building!** 📝✨
