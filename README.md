@@ -34,7 +34,7 @@ This **Discord Clone** project provides both **Centralized** and **Decentralized
 
 <div align="center">
   <video width="720" height="400" controls>
-    <source src="./assets/Centralized-D3scord.mp4" type="video/mp4">
+    <source src="assets/Centralized-D3scord.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </div>
