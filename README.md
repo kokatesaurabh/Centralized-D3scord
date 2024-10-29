@@ -59,7 +59,6 @@ This **Discord Clone** project provides both **Centralized** and **Decentralized
 
 Here are the API keys and environment variables powering the centralized version’s functionality:
 
-```plaintext
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY= /* Clerk Publishable Key for user authentication */
 CLERK_SECRET_KEY= /* Clerk Secret Key for backend authorization */
 DATABASE_URL= /* MySQL database URL with authorization details */
@@ -68,3 +67,12 @@ UPLOADTHING_APP_ID= /* UploadThing's application ID */
 LIVEKIT_API_KEY= /* LiveKit API key for video and audio */
 LIVEKIT_API_SECRET= /* LiveKit API secret for secure calls */
 NEXT_PUBLIC_LIVEKIT_URL= /* Public URL for LiveKit service */
+This setup enables Clerk Authentication, UploadThing for attachments, and LiveKit for calls, delivering a seamless communication experience.
+
+🤝 Connect
+Stay connected for updates and improvements!
+
+LinkedIn - Saurabh Kokate
+GitHub: kokatesaurabh
+Explore D3scord (Decentralized Version): kokatesaurabh/D3scord
+Happy chatting and community building! 📝✨
