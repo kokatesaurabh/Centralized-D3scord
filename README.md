@@ -1,8 +1,5 @@
 # 🚀 Discord Clone - Full-Stack Web App 🌐
 
-![Discord Clone](image.png)
-
-
 <div align="center">
   <a href="https://github.com/kokatesaurabh/Centralized-D3scord/stargazers">
     <img src="https://img.shields.io/github/stars/kokatesaurabh/Centralized-D3scord?style=social" alt="Stars Badge"/>
@@ -55,10 +52,11 @@ This **Discord Clone** project provides both **Centralized** and **Decentralized
 
 ---
 
-##🛠 API and Environment Setup
+## 🛠 API and Environment Setup
+
 Here are the API keys and environment variables powering the centralized version’s functionality:
 
-plaintext
+```plaintext
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY= /* Clerk Publishable Key for user authentication */
 CLERK_SECRET_KEY= /* Clerk Secret Key for backend authorization */
 DATABASE_URL= /* MySQL database URL with authorization details */
@@ -67,12 +65,21 @@ UPLOADTHING_APP_ID= /* UploadThing's application ID */
 LIVEKIT_API_KEY= /* LiveKit API key for video and audio */
 LIVEKIT_API_SECRET= /* LiveKit API secret for secure calls */
 NEXT_PUBLIC_LIVEKIT_URL= /* Public URL for LiveKit service */
-This setup enables Clerk Authentication, UploadThing for attachments, and LiveKit for calls, delivering a seamless communication experience.
+```
 
-##🤝 Connect
+This setup enables **Clerk Authentication**, **UploadThing for attachments**, and **LiveKit for calls**, delivering a seamless communication experience.
+
+---
+
+## 🤝 Connect
+
 Stay connected for updates and improvements!
 
-LinkedIn - Saurabh Kokate
-GitHub: kokatesaurabh
-Explore D3scord (Decentralized Version): kokatesaurabh/D3scord
-Happy chatting and community building! 📝✨
+- **[LinkedIn - Saurabh Kokate](http://linkedin.com/in/saurabh-kokate-b839b921a)**
+- **GitHub: [kokatesaurabh](https://github.com/kokatesaurabh/Centralized-D3scord)**
+- **Explore D3scord (Decentralized Version)**: [kokatesaurabh/D3scord](https://github.com/kokatesaurabh/D3scord)
+
+---
+
+**Happy chatting and community building!** 📝✨
+```
